@@ -23,8 +23,8 @@ p, a {
 }
 
 .logo {
-    height: 20px;
-    max-height: 20px;
+    height: 28px;
+    max-height: 28px;
     width: auto;
     object-fit: contain;
     display: block; 
