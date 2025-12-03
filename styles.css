@@ -16,3 +16,87 @@ p, a {
     justify-content: space-between;
     align-items: center;
 }
+
+.header-left {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.logo {
+    height: 40px;
+}
+
+.site-title {
+    font-family: "Playfair Display", serif;
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: #000080; 
+}
+
+.main-nav {
+    display: flex;
+    gap: 24px;
+}
+
+.main-nav a {
+    text-decoration: none;
+    font-weight: 600;
+    color: #000080;
+    padding-bottom: 3px;
+    transition: 0.2s ease-in-out;
+}
+
+.main-nav a:hover {
+    color: #800020; 
+    border-bottom: 2px solid #B8860B; 
+}
+
+.site-footer {
+    background-color: #F8F8FF;
+    border-top: 1px solid #dcdcdc;
+    padding: 20px 24px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.footer-left .footer-logo {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #000080;
+}
+
+.footer-links {
+    display: flex;
+    gap: 20px;
+}
+
+.footer-links a {
+    color: #800020;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.footer-links a:hover {
+    text-decoration: underline;
+}
+
+.footer-right {
+    text-align: right;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.footer-right a {
+    color: #000080;
+    text-decoration: none;
+}
+
+.footer-right a:hover {
+    text-decoration: underline;
+}
