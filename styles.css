@@ -1,0 +1,18 @@
+h1,h2,h3 {
+    font-family: "Playfair Display", serif;
+    
+}
+
+p, a {
+   font-family: "Lato", sans-serif; 
+}
+
+.site-header {
+    background-color: #F8F8FF;
+    border: 1px solid #dcdcdc;
+    padding: 12px 24px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
