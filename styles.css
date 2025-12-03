@@ -49,10 +49,10 @@ p, a {
     transition: 0.2s ease-in-out;
 }
 
-/* .main-nav a:hover {
+.main-nav a:hover {
     color: #800020; 
     border-bottom: 2px solid #B8860B; 
-} */
+}
 
 .site-footer {
     background-color: #F8F8FF;
@@ -83,7 +83,7 @@ p, a {
     font-weight: 600;
 }
 
-/* .footer-links a:hover {
+.footer-links a:hover {
     text-decoration: underline;
-} */
+}
 
