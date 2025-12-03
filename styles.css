@@ -50,10 +50,10 @@ p, a {
     transition: 0.2s ease-in-out;
 }
 
-.main-nav a:hover {
+/* .main-nav a:hover {
     color: #800020; 
     border-bottom: 2px solid #B8860B; 
-}
+} */
 
 .site-footer {
     background-color: #F8F8FF;
@@ -84,22 +84,7 @@ p, a {
     font-weight: 600;
 }
 
-.footer-links a:hover {
+/* .footer-links a:hover {
     text-decoration: underline;
-}
+} */
 
-.footer-right {
-    text-align: right;
-    display: flex;
-    flex-direction: column;
-    gap: 4px;
-}
-
-.footer-right a {
-    color: #000080;
-    text-decoration: none;
-}
-
-.footer-right a:hover {
-    text-decoration: underline;
-}
