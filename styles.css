@@ -23,8 +23,8 @@ p, a {
 }
 
 .logo {
-    height: 30px;
-    max-height: 30px;
+    height: 32px;
+    max-height: 32px;
     width: auto;
     object-fit: contain;
     display: block; 
@@ -32,8 +32,8 @@ p, a {
 
 .site-title {
     font-family: "Playfair Display", serif;
-    font-size: 1.3;
-    font-weight: 700;
+    font-size: 1.4;
+    font-weight: 600;
     color: #000080; 
 }
 
