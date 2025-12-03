@@ -25,8 +25,10 @@ p, a {
 
 .logo {
     height: 38px;
+    max-height: 38px;
     width: auto;
     object-fit: contain;
+    display: block; 
 }
 
 .site-title {
