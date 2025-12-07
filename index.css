@@ -19,7 +19,7 @@
 }
 
 .wrap-image {
-    float: left;          
+    float: right;          
     margin: 0 20px 20px 0; 
     max-width: 40%;     
     height: auto;
