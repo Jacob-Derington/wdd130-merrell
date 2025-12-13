@@ -93,3 +93,8 @@ main > h3 {
     margin-top: 10px;
     color: #555;
 }
+
+.report section{
+    text-align: center;
+    margin-top: 10px;
+}
