@@ -98,3 +98,7 @@ section{
     text-align: center;
     margin-top: 10px;
 }
+
+section p{
+    text-decoration: underline;
+}
