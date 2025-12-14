@@ -111,8 +111,10 @@ section a {
     text-decoration: none;
     font-weight: 700;
     transition: 0.2s;
+    margin-top: 30px;
 }
 
 section a:hover {
     background-color: aqua;
+    color: #000080;
 }
