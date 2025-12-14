@@ -97,6 +97,8 @@ main > h3 {
 section{
     text-align: center;
     margin: 20px;
+    display: flex;
+    flex-direction: column;
     gap: 30px;
 }
 
@@ -105,6 +107,7 @@ section p{
 }
 
 section a {
+    display: inline-block;
     background-color: #000080;
     color: white;
     padding: 14px 28px;
