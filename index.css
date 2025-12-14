@@ -96,7 +96,7 @@ main > h3 {
 
 section{
     text-align: center;
-    margin: 10px;
+    margin: 20px;
 }
 
 section p{
@@ -114,5 +114,5 @@ section a {
 }
 
 section a:hover {
-    color: aqua;
+    background-color: aqua;
 }
