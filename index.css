@@ -107,7 +107,6 @@ section p{
 }
 
 section a {
-    display: inline-block;
     background-color: #000080;
     color: white;
     padding: 14px 28px;
@@ -115,7 +114,6 @@ section a {
     text-decoration: none;
     font-weight: 700;
     transition: 0.2s;
-    margin-top: 30px;
 }
 
 section a:hover {
